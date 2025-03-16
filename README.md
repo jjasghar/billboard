@@ -1,6 +1,9 @@
-# Open Source AI slides
+# JJ's Billboard
+Hi! You've found my bill board reveal.js instance.
 
-Hi! You've found my source code for my Open Source Talk.
+Sometimes you need to show something off on a screen and have a link to it.
+
+<https://jjasghar.github.io/billboard> seemed as good as any.
 
 Thanks for checking it out, and would love to have any thoughts or PRs submitted here.
 
@@ -25,5 +28,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-# billboard
